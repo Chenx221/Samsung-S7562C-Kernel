@@ -1,0 +1,2 @@
+make bcm21664_hawaii_ss_kyleve_chn_cu_rev00_defconfig
+make
